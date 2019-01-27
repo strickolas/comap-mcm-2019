@@ -47,7 +47,7 @@ def main():
             temp = [key]
             temp.extend(val)
             writer.writerow(temp)
-            
+
 
 if __name__ == "__main__":
     main()
